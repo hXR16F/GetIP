@@ -14,6 +14,7 @@ To **delete temporary files**:
 
 To **display** IP address:
 > type ext_ip.var
+
 > type int_ip.var
 
 # How it works
