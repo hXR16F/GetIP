@@ -9,7 +9,7 @@ To get **external** IP address:
 To get **internal** IP address:
 > call getip.bat --internal
 
-To **delete temporary files** created:
+To **delete temporary files**:
 > call getip.bat --clean
 
 To **display** IP address:
