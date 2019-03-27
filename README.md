@@ -23,3 +23,6 @@ External:
 
 Internal:
 > It uses **ipconfig** command.
+
+# Screenshot
+![screenshot](https://i.imgur.com/P1XaFPR.png)
