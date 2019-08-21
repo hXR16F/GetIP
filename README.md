@@ -1,4 +1,4 @@
-# GetIP
+# GetIP - [YouTube](https://www.youtube.com/watch?v=uU2z05tE5KQ)
 GetIP is a function/script/plugin for batch files.
 It can obtain external and internal IPv4 address.
 
